@@ -21,7 +21,7 @@
         "history": true,
         "send": true,
         "resource": true,
-        "vote": true,
+        "vote": false,
         "staking": true,
         "dapps": true,
         "addAcc": true,
